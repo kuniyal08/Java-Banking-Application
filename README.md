@@ -1,0 +1,1 @@
+Simple Console Based Banking Application based on Java. Simulates basic banking procedures and allows the user to create, manage their bank accounts while also having features such as check account balances, deposit funds, withdraw funds, and update account information.
